@@ -83,11 +83,6 @@ A beginner-friendly AI chatbot project focused on understanding user queries and
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
-
----
 
 ## 🎯 2026 Goals
 
